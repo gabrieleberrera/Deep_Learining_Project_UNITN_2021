@@ -4,7 +4,7 @@ Authors: Gabriele Berrera, Ashkan Alami
 
 ## Classification Task
 
-(How to run code for the classification ask)
+(How to run code for the Classification Task)
 
 ## Person Re-Identification Task
 
